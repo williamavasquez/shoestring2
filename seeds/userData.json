@@ -1,0 +1,16 @@
+[
+  {
+    "first_name": "Admin",
+    "last_name": "Admin",
+    "email": "helloshoestringapp@gmail.com",
+    "password": "adminpassword123",
+    "pay_day": "1/1/2022",
+    "monthly_income": 0,
+    "checking": 0,
+    "savings": 0,
+    "credit_card": 0,
+    "bills_before": 0,
+    "new_checking": 0
+  }
+]
+
